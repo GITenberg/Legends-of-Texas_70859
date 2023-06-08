@@ -1,0 +1,40 @@
+_repo: Legends-of-Texas_70859
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Dobie, J. Frank (James Frank)
+    aliases:
+    - Dobie, James Frank
+    - Dobie, Frank
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '176'
+    url: http://www.gutenberg.org/2009/agents/176
+    wikipedia: https://en.wikipedia.org/wiki/J._Frank_Dobie
+description: ''
+edition_note: Second edition
+gutenberg_issued: '2023-05-25'
+identifiers:
+  gutenberg: '70859'
+language: en
+pgterms:marc904: https://archive.org/details/legendsoftexas00dobi/page/n5
+pgterms:marc905: 20200106060604dobie
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bTexas Folk-Lore Society, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Publications of the Texas Folk-Lore Society, Number III
+subjects:
+- !lcsh 'Legends -- Texas'
+- !lcsh 'Tales -- Texas'
+- !lcsh 'Treasure troves -- Texas -- Folklore'
+- !lcsh 'Mines and mineral resources -- Texas -- Folklore'
+- !lcc 'GR'
+- GITenberg
+title: Legends of Texas
+url: http://www.gutenberg.org/ebooks/70859
