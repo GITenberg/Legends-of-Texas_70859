@@ -1,5 +1,8 @@
 _repo: Legends-of-Texas_70859
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70859-h/images/frontcover.jpg
 creator:
   editor:
     agent_name: Dobie, J. Frank (James Frank)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/176
     wikipedia: https://en.wikipedia.org/wiki/J._Frank_Dobie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70859#Legends-of-Texas
 edition_note: Second edition
 gutenberg_issued: '2023-05-25'
 identifiers:
